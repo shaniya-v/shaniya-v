@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm shaniya </h1>
 
-[![](https://visitcount.itsvg.in/api?id=nithesh14&icon=2&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=shaniya14&icon=2&color=11)](https://visitcount.itsvg.in)
 
 <h2 align="left">I'm from Nagercoil</h2>
 
@@ -11,7 +11,7 @@
 <img align="left" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
 
 
-<br>- 🔭 <b>Web developer<b><br>  - 📫 How to reach me <b>michalnithesh.cs22@stellamaryscoe.edu.in<b><br>- 📚 I'm currently learning <b>JavaScript<b><br>- 🖥️  See my portfolio at <b>[CLICK MEE...](http://nithesh14.github.io)<b></p><br>
+<br>- 🔭 <b>Web developer<b><br>  - 📫 How to reach me <b>shaniya.cs22@stellamaryscoe.edu.in<b><br>- 📚 I'm currently learning <b>JavaScript<b><br>- 🖥️  See my portfolio at <b>[CLICK MEE...](http://shaniya-v.github.io)<b></p><br>
 
 ###
 
@@ -87,10 +87,10 @@
 
 <p align="left"> 
   <a href="https://www.github.com/shaniya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
-  <a href="http://www.instagram.com/michal.nithesh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
-  <a href="https://www.linkedin.com/in/michalnithesh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-  <a href="https://www.twitter.com/michalnithesh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> 
-  <a href="https://www.twitch.tv/michalnithesh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a>
+  <a href="http://www.instagram.com/shaniya.shaniya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
+  <a href="https://www.linkedin.com/in/shaniyashaniya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+  <a href="https://www.twitter.com/shaniyashaniya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> 
+  <a href="https://www.twitch.tv/shaniyashaniya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a>
   <a href="https://www.hashnode.com/#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a></p>
 
 
@@ -98,7 +98,7 @@
 
 # 📊 GitHub Stats:
 
-<a href="http://www.github.com/shaniya"><img src="https://github-readme-stats.vercel.app/api?username=shaniya&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=a855f7&icon_color=6366f1&bg_color=000000&hide_border=true&show_icons=true" alt="Michal Nithesh's GitHub stats" /></a>
+<a href="http://www.github.com/shaniya"><img src="https://github-readme-stats.vercel.app/api?username=shaniya&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=a855f7&icon_color=6366f1&bg_color=000000&hide_border=true&show_icons=true" alt="shaniya shaniya's GitHub stats" /></a>
 
 <a href="http://www.github.com/shaniya"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shaniya&stroke=a855f7&background=000000&ring=22c55e&fire=22c55e&currStreakNum=a855f7&currStreakLabel=22c55e&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
 
