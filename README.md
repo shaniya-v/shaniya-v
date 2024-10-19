@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Michal Nithesh </h1>
+<h1 align="center">Hi 👋, I'm shaniya </h1>
 
 [![](https://visitcount.itsvg.in/api?id=nithesh14&icon=2&color=11)](https://visitcount.itsvg.in)
 
@@ -16,7 +16,7 @@
 ###
 
 ## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=Michal-Nithesh&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=shaniya&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
 <div align="center">
   <img height="150" src="https://logodownload.org/wp-content/uploads/2019/08/github-logo-2.png"  />
@@ -86,7 +86,7 @@
 <h2 align="left">🌐 Connect with me:</h2><br>
 
 <p align="left"> 
-  <a href="https://www.github.com/michal-nithesh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
+  <a href="https://www.github.com/shaniya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
   <a href="http://www.instagram.com/michal.nithesh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
   <a href="https://www.linkedin.com/in/michalnithesh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
   <a href="https://www.twitter.com/michalnithesh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> 
@@ -98,13 +98,13 @@
 
 # 📊 GitHub Stats:
 
-<a href="http://www.github.com/michal-nithesh"><img src="https://github-readme-stats.vercel.app/api?username=michal-nithesh&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=a855f7&icon_color=6366f1&bg_color=000000&hide_border=true&show_icons=true" alt="Michal Nithesh's GitHub stats" /></a>
+<a href="http://www.github.com/shaniya"><img src="https://github-readme-stats.vercel.app/api?username=shaniya&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=a855f7&icon_color=6366f1&bg_color=000000&hide_border=true&show_icons=true" alt="Michal Nithesh's GitHub stats" /></a>
 
-<a href="http://www.github.com/michal-nithesh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=michal-nithesh&stroke=a855f7&background=000000&ring=22c55e&fire=22c55e&currStreakNum=a855f7&currStreakLabel=22c55e&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
+<a href="http://www.github.com/shaniya"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shaniya&stroke=a855f7&background=000000&ring=22c55e&fire=22c55e&currStreakNum=a855f7&currStreakLabel=22c55e&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
 
-<a href="http://www.github.com/michal-nithesh"><img src="https://github-readme-activity-graph.vercel.app/graph?username=michal-nithesh&bg_color=000000&color=a855f7&line=6366f1&point=a855f7&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/shaniya"><img src="https://github-readme-activity-graph.vercel.app/graph?username=shaniya&bg_color=000000&color=a855f7&line=6366f1&point=a855f7&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/michal-nithesh" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michal-nithesh&langs_count=10&title_color=22c55e&text_color=a855f7&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/shaniya" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaniya&langs_count=10&title_color=22c55e&text_color=a855f7&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 ###
